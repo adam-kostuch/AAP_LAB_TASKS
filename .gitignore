@@ -1,5 +1,9 @@
 # Wykluczenie środowiska wirtualnego venv
 venv/
+.venv/
+
+# Lab 5 – duży zbiór Otomoto (> limit GitHub); pobierz lokalnie (np. Kaggle / źródło zajęć)
+materialy/lab_05/otomoto_offers_eng_23-04-2023.csv
 
 # Cache i pliki tymczasowe Pythona
 __pycache__/
